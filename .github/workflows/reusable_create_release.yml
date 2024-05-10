@@ -1,0 +1,91 @@
+name: Create Release and Update Repository
+
+on:
+  workflow_call:
+    inputs:
+      internal_name:
+        type: string
+        required: true
+      solution_name:
+        type: string
+        required: true
+      build_configuration:
+        type: string
+        required: true
+      personal_plugin_repo:
+        type: string
+        required: true
+      personal_plugin_repo_branch:
+        type: string
+        required: true
+    secrets:
+      PAT:
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1
+
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1
+
+      - name: Restore NuGet Packages
+        run: nuget restore ${{ inputs.solution_name }}.sln
+
+      - name: Download Dalamud
+        run: |
+          Invoke-WebRequest -Uri https://ottercorp.github.io/dalamud-distrib/stg/latest.zip -OutFile latest.zip
+          Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
+
+      - name: Build
+        run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          path: ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
+
+  deploy:
+    needs: build
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout Plugin Repository
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ inputs.personal_plugin_repo }}
+          token: ${{ secrets.PAT }}
+          ref: ${{ inputs.personal_plugin_repo_branch }}
+
+      - name: Download Plugin Build Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: artifact
+          path: plugins/${{ inputs.internal_name }}
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: ./plugins/${{ inputs.internal_name }}/${{ inputs.internal_name }}.json
+          author_name: GitHub Action
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: ${{ inputs.internal_name }} ${{ github.ref_name }}
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ./plugins/${{ inputs.internal_name }}/latest.zip
+          draft: false
+          prerelease: false
