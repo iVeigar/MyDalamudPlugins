@@ -1,5 +1,35 @@
 [
     {
+        "Author": "apetih, iVeigar",
+        "Name": "Logogram Helper Ex (CN)",
+        "Punchline": "Helper plugin for Eureka's Logos Actions.",
+        "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
+        "Changelog": "",
+        "InternalName": "LogogramHelperEx-CN",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx-CN",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "eureka",
+            "logograms"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx-CN/master/res/img/logoslogo.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx-CN/releases/download/v1.0.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx-CN/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx-CN/releases/download/v1.0.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1715376838"
+    },
+    {
         "Author": "iVeigar",
         "Name": "BAHelper",
         "Punchline": "QoL for the Baldesion Arsenal",
