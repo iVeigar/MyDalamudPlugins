@@ -5,6 +5,36 @@
         "Punchline": "Helper plugin for Eureka's Logos Actions.",
         "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
         "Changelog": "",
+        "InternalName": "LogogramHelperEx",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "eureka",
+            "logograms"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
+        "DownloadCount": 1,
+        "LastUpdate": "1715412514"
+    },
+    {
+        "Author": "apetih, iVeigar",
+        "Name": "Logogram Helper Ex (CN)",
+        "Punchline": "Helper plugin for Eureka's Logos Actions.",
+        "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
+        "Changelog": "",
         "InternalName": "LogogramHelperEx-CN",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx-CN",
