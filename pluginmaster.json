@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx-CN/releases/download/v1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx-CN/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1715376838"
     },
     {
@@ -52,7 +52,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1715373093"
     }
 ]
