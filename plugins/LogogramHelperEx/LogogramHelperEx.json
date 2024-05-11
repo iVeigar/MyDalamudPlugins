@@ -1,28 +1,28 @@
 {
-    "Name": "Logogram Helper Ex (CN)",
-    "InternalName": "LogogramHelperEx",
-    "Author": "apetih, iVeigar",
-    "AssemblyVersion": "1.0.0.0",
-    "Punchline": "Helper plugin for Eureka's Logos Actions.",
-    "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
-    "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "eureka",
-        "logograms"
-    ],
-    "CategoryTags": [
-        "utility"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
-    "ImageUrls": [
-        ""
-    ],
-    "Changelog": "",
-    "AcceptsFeedback": true
+  "Author": "apetih, iVeigar",
+  "Name": "Logogram Helper Ex (CN)",
+  "InternalName": "LogogramHelperEx",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
+  "Tags": [
+    "eureka",
+    "logograms"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
+  "Punchline": "Helper plugin for Eureka's Logos Actions.",
+  "Changelog": "",
+  "AcceptsFeedback": true
 }
