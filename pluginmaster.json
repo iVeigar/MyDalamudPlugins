@@ -6,7 +6,7 @@
         "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
         "Changelog": "",
         "InternalName": "LogogramHelperEx",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
         "ApplicableVersion": "any",
         "Tags": [
@@ -21,13 +21,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 1,
-        "LastUpdate": "1715412514"
+        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.0.0.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1715413264"
     },
     {
         "Author": "iVeigar",
