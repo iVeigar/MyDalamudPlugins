@@ -2,7 +2,7 @@
   "Author": "iVeigar",
   "Name": "BAHelper",
   "InternalName": "BAHelper",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.1.0",
   "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/BAHelper",
