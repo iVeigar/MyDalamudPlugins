@@ -36,7 +36,7 @@
         "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
         "Changelog": "",
         "InternalName": "BAHelper",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.2.0",
         "RepoUrl": "https://github.com/iVeigar/BAHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -50,12 +50,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.1.2.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1716140340"
+        "LastUpdate": "1716218122"
     }
 ]
