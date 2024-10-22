@@ -1,0 +1,20 @@
+{
+  "Author": "Taurenkey (Puni.sh), iVeigar",
+  "Name": "Artisan",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "4.0.1.8",
+  "Description": "The all-in-one crafting plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/iVeigar/Artisan",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/artisan.png",
+  "Punchline": "A 'simple' crafting plugin.",
+  "AcceptsFeedback": true
+}
