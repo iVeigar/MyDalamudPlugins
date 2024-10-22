@@ -55,7 +55,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-artifact@v3
         with:
-          path: ./${{ inputs.solution_name }}/bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
+          path: ./${{ inputs.solution_name }}/bin/${{ inputs.build_configuration }}/${{ inputs.internal_name }}/*
 
   deploy:
     needs: build
