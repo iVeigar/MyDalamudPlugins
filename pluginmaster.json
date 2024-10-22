@@ -18,7 +18,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadCount": 3,
+        "DownloadCount": 4,
         "LastUpdate": "1729555679"
     },
     {
@@ -50,37 +50,6 @@
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.0.1/latest.zip",
         "DownloadCount": 2,
         "LastUpdate": "1728825864"
-    },
-    {
-        "Author": "Critical_Impact, iVeigar",
-        "Name": "Allagan Tools",
-        "Punchline": "Get organized in FFXIV, easily locate/show where to sort items, plan your crafting, and search for mobs, duties, airships, and submarines!",
-        "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
-        "InternalName": "InventoryTools",
-        "AssemblyVersion": "1.8.0.20",
-        "RepoUrl": "https://github.com/iVeigar/AllaganToolsCN",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Inventory",
-            "Sorting",
-            "Filtering"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
-            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
-            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
-            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
-            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.0.20/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.0.20/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.0.20/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1729570470"
     },
     {
         "Author": "iVeigar",
