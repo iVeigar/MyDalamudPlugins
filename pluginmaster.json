@@ -23,7 +23,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "DownloadCount": 4,
+        "DownloadCount": 0,
         "LastUpdate": "1730431277"
     },
     {
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.0.1/latest.zip",
-        "DownloadCount": 7,
+        "DownloadCount": 0,
         "LastUpdate": "1728825864"
     },
     {
@@ -75,7 +75,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadCount": 14,
+        "DownloadCount": 0,
         "LastUpdate": "1729555679"
     },
     {
@@ -135,7 +135,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.1.0/latest.zip",
-        "DownloadCount": 11,
+        "DownloadCount": 0,
         "LastUpdate": "1730039824"
     }
 ]
