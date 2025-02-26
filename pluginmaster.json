@@ -56,6 +56,28 @@
         "LastUpdate": "1730431277"
     },
     {
+        "Author": "Taurenkey (Puni.sh), iVeigar",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "InternalName": "Artisan",
+        "AssemblyVersion": "4.0.1.8",
+        "RepoUrl": "https://github.com/iVeigar/Artisan",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "crafting"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "DownloadCount": 14,
+        "LastUpdate": "1729555679"
+    },
+    {
         "Author": "apetih, iVeigar",
         "Name": "Logogram Helper Ex (CN)",
         "Punchline": "Helper plugin for Eureka's Logos Actions.",
@@ -115,27 +137,5 @@
         "DownloadLinkUpdate": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.1.2/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1729908696"
-    },
-    {
-        "Author": "Taurenkey (Puni.sh), iVeigar",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.1.8",
-        "RepoUrl": "https://github.com/iVeigar/Artisan",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "crafting"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadCount": 14,
-        "LastUpdate": "1729555679"
     }
 ]
