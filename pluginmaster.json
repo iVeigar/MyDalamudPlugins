@@ -1,5 +1,61 @@
 [
     {
+        "Author": "iVeigar",
+        "Name": "BAHelper",
+        "Punchline": "QoL for the Baldesion Arsenal",
+        "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
+        "Changelog": "",
+        "InternalName": "BAHelper",
+        "AssemblyVersion": "1.2.1.0",
+        "RepoUrl": "https://github.com/iVeigar/BAHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Eureka"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.1.0/latest.zip",
+        "DownloadCount": 11,
+        "LastUpdate": "1730039824"
+    },
+    {
+        "Author": "Nadya, iVeigar",
+        "Name": "Tidy Chat (CN)",
+        "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
+        "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
+        "InternalName": "TidyChatCN",
+        "AssemblyVersion": "2.1.1.0",
+        "RepoUrl": "https://github.com/iVeigar/TidyChat",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Emote",
+            "Filter",
+            "Spam"
+        ],
+        "CategoryTags": [
+            "Social"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1730431277"
+    },
+    {
         "Author": "Taurenkey (Puni.sh), iVeigar",
         "Name": "Artisan",
         "Punchline": "A 'simple' crafting plugin.",
@@ -18,7 +74,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadCount": 4,
+        "DownloadCount": 14,
         "LastUpdate": "1729555679"
     },
     {
@@ -48,36 +104,38 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.0.1/latest.zip",
-        "DownloadCount": 2,
+        "DownloadCount": 7,
         "LastUpdate": "1728825864"
     },
     {
-        "Author": "iVeigar",
-        "Name": "BAHelper",
-        "Punchline": "QoL for the Baldesion Arsenal",
-        "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
-        "Changelog": "",
-        "InternalName": "BAHelper",
-        "AssemblyVersion": "1.2.0.0",
-        "RepoUrl": "https://github.com/iVeigar/BAHelper",
+        "Author": "Critical_Impact, iVeigar",
+        "Name": "Allagan Tools (CN)",
+        "Punchline": "Get organized in FFXIV, easily locate/show where to sort items, plan your crafting, and search for mobs, duties, airships, and submarines!",
+        "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
+        "InternalName": "InventoryToolsCN",
+        "AssemblyVersion": "1.8.1.2",
+        "RepoUrl": "https://github.com/iVeigar/AllaganToolsCN",
         "ApplicableVersion": "any",
         "Tags": [
-            "Eureka"
-        ],
-        "CategoryTags": [
-            "utility"
+            "Inventory",
+            "Sorting",
+            "Filtering"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
         "ImageUrls": [
-            ""
+            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
+            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
+            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
+            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
+            "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
         ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.1.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.2.0.0/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1728827566"
+        "DownloadLinkTesting": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.1.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/AllaganToolsCN/releases/download/v1.8.1.2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1729908696"
     }
 ]
