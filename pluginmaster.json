@@ -1,61 +1,5 @@
 [
     {
-        "Author": "iVeigar",
-        "Name": "BAHelper",
-        "Punchline": "QoL for the Baldesion Arsenal",
-        "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
-        "Changelog": "",
-        "InternalName": "BAHelper",
-        "AssemblyVersion": "1.3.0.0",
-        "RepoUrl": "https://github.com/iVeigar/BAHelper",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Eureka"
-        ],
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 11,
-        "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
-        "DownloadCount": 10,
-        "LastUpdate": "1746108281"
-    },
-    {
-        "Author": "Nadya, iVeigar",
-        "Name": "Tidy Chat (CN)",
-        "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
-        "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
-        "InternalName": "TidyChatCN",
-        "AssemblyVersion": "2.1.1.0",
-        "RepoUrl": "https://github.com/iVeigar/TidyChat",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Emote",
-            "Filter",
-            "Spam"
-        ],
-        "CategoryTags": [
-            "Social"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1730431277"
-    },
-    {
         "Author": "Critical_Impact, iVeigar",
         "Name": "Allagan Tools (CN)",
         "Punchline": "Get organized in FFXIV, easily locate/show where to sort items, plan your crafting, and search for mobs, duties, airships, and submarines!",
@@ -87,28 +31,6 @@
         "LastUpdate": "1729908696"
     },
     {
-        "Author": "Taurenkey (Puni.sh), iVeigar",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.1.8",
-        "RepoUrl": "https://github.com/iVeigar/Artisan",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "crafting"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
-        "DownloadCount": 14,
-        "LastUpdate": "1729555679"
-    },
-    {
         "Author": "apetih, iVeigar",
         "Name": "Logogram Helper Ex (CN)",
         "Punchline": "Helper plugin for Eureka's Logos Actions.",
@@ -135,7 +57,85 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.3.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.3.0/latest.zip",
-        "DownloadCount": 7,
+        "DownloadCount": 8,
         "LastUpdate": "1746257675"
+    },
+    {
+        "Author": "Nadya, iVeigar",
+        "Name": "Tidy Chat (CN)",
+        "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
+        "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
+        "InternalName": "TidyChatCN",
+        "AssemblyVersion": "2.1.1.0",
+        "RepoUrl": "https://github.com/iVeigar/TidyChat",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Emote",
+            "Filter",
+            "Spam"
+        ],
+        "CategoryTags": [
+            "Social"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1730431277"
+    },
+    {
+        "Author": "Taurenkey (Puni.sh), iVeigar",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "InternalName": "Artisan",
+        "AssemblyVersion": "4.0.1.8",
+        "RepoUrl": "https://github.com/iVeigar/Artisan",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "crafting"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/Artisan/releases/download/v4.0.1.8/latest.zip",
+        "DownloadCount": 14,
+        "LastUpdate": "1729555679"
+    },
+    {
+        "Author": "iVeigar",
+        "Name": "BAHelper",
+        "Punchline": "QoL for the Baldesion Arsenal",
+        "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
+        "Changelog": "",
+        "InternalName": "BAHelper",
+        "AssemblyVersion": "1.3.0.0",
+        "RepoUrl": "https://github.com/iVeigar/BAHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Eureka"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 11,
+        "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v1.3.0.0/latest.zip",
+        "DownloadCount": 10,
+        "LastUpdate": "1746108281"
     }
 ]
