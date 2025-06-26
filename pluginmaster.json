@@ -1,33 +1,30 @@
 [
     {
-        "Author": "apetih, iVeigar",
-        "Name": "Logogram Helper Ex (CN)",
-        "Punchline": "Helper plugin for Eureka's Logos Actions.",
-        "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
-        "Changelog": "",
-        "InternalName": "LogogramHelperEx",
-        "AssemblyVersion": "1.2.4.0",
-        "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
+        "Author": "Nadya, iVeigar",
+        "Name": "Tidy Chat (CN)",
+        "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
+        "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
+        "InternalName": "TidyChatCN",
+        "AssemblyVersion": "2.1.1.0",
+        "RepoUrl": "https://github.com/iVeigar/TidyChat",
         "ApplicableVersion": "any",
         "Tags": [
-            "eureka",
-            "logograms"
+            "Emote",
+            "Filter",
+            "Spam"
         ],
         "CategoryTags": [
-            "utility"
+            "Social"
         ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1750788899"
+        "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1730431277"
     },
     {
         "Author": "Critical_Impact, iVeigar",
@@ -61,31 +58,34 @@
         "LastUpdate": "1729908696"
     },
     {
-        "Author": "Nadya, iVeigar",
-        "Name": "Tidy Chat (CN)",
-        "Punchline": "Better game messages and in-depth chat filters to keep a tidy chat.",
-        "Description": "It is highly recommended to edit the default settings as you may disagree on which messages should be considered \"spam\"!\n\nProvides granular filter options to filter nearly all game-related spam, leaving only important game messages in your chat.\n\n  - Filters most spammy game messages\n  - Blocks emote spam from other players\n  - Condenses earned commendations into a single line\n  - Shortens lengthy messages such as joining Novice Network or entering an instanced zone\n  - Blocks repeated messages from appearing for a period of time\n  - Automatically copies most 'with your chat mode in /say' quest dialogue to your clipboard\n  - Write custom filters to Allow/Block messages!\n  - And more!",
-        "InternalName": "TidyChatCN",
-        "AssemblyVersion": "2.1.1.0",
-        "RepoUrl": "https://github.com/iVeigar/TidyChat",
+        "Author": "apetih, iVeigar",
+        "Name": "Logogram Helper Ex (CN)",
+        "Punchline": "Helper plugin for Eureka's Logos Actions.",
+        "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
+        "Changelog": "",
+        "InternalName": "LogogramHelperEx",
+        "AssemblyVersion": "1.2.4.0",
+        "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
         "ApplicableVersion": "any",
         "Tags": [
-            "Emote",
-            "Filter",
-            "Spam"
+            "eureka",
+            "logograms"
         ],
         "CategoryTags": [
-            "Social"
+            "utility"
         ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://github.com/NadyaNayme/TidyChat/blob/master/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/TidyChat/releases/download/v2.1.1.0/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1730431277"
+        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v1.2.4.0/latest.zip",
+        "DownloadCount": 5,
+        "LastUpdate": "1750788899"
     },
     {
         "Author": "iVeigar",
