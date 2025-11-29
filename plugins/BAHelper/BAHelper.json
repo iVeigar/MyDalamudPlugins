@@ -1,27 +1,27 @@
 {
   "Author": "iVeigar",
-  "Name": "BAHelper",
+  "Name": "兵武塔助手",
   "InternalName": "BAHelper",
-  "AssemblyVersion": "1.3.1.0",
-  "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
+  "AssemblyVersion": "7.38.0.0",
+  "Description": "提供了一些攻略兵武塔时解放大脑和双手的功能：\n - 门图\n - 监控附近玩家状态\n - 一键检查队员补正数值\n - 自动上双盾\n - 扫雷助手、找一查箱子\n - 画出怪物仇恨范围",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/BAHelper",
   "Tags": [
-    "Eureka"
+    "BA",
+    "兵武塔",
+    "Eureka",
+    "优雷卡"
   ],
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "ImageUrls": [
-    ""
-  ],
   "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
-  "Punchline": "QoL for the Baldesion Arsenal",
+  "Punchline": "让兵武塔车头和功能位轻松一点点",
   "Changelog": "",
   "AcceptsFeedback": true
 }
