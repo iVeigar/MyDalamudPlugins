@@ -1,28 +1,27 @@
 {
-  "Author": "apetih, iVeigar",
-  "Name": "Logogram Helper Ex (CN)",
+  "Author": "apetih, iVeigar(汉化+增强)",
+  "Name": "Logogram Helper (汉化+增强版)",
   "InternalName": "LogogramHelperEx",
-  "AssemblyVersion": "1.2.4.0",
-  "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
+  "AssemblyVersion": "7.38.0.0",
+  "Description": "打开文理碎晶界面时展示文理技能的所有合成方式，并且可以一键将单个技能的指定配方或者自定义的技能组配方自动放入文理融合器。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
   "Tags": [
     "eureka",
-    "logograms"
+    "优雷卡",
+    "logograms",
+    "文理"
   ],
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "ImageUrls": [
-    ""
-  ],
   "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
-  "Punchline": "Helper plugin for Eureka's Logos Actions.",
+  "Punchline": "优雷卡文理技能合成助手",
   "Changelog": "",
   "AcceptsFeedback": true
 }
