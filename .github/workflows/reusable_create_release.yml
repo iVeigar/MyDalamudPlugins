@@ -47,7 +47,7 @@ jobs:
       - name: Download Dalamud
         run: |
           Invoke-WebRequest -Uri https://raw.githubusercontent.com/ottercorp/dalamud-distrib/refs/heads/main/stg/latest.zip -OutFile latest.zip
-          Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
+          Expand-Archive -Force latest.zip "$env:AppData\XIVLauncherCN\addon\Hooks\dev\"
 
       - name: Build
         run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
