@@ -2,7 +2,7 @@
   "Author": "iVeigar",
   "Name": "兵武塔助手",
   "InternalName": "BAHelper",
-  "AssemblyVersion": "7.38.0.0",
+  "AssemblyVersion": "7.38.0.1",
   "Description": "提供了一些攻略兵武塔时解放大脑和双手的功能：\n - 门图\n - 监控附近玩家状态\n - 一键检查队员补正数值\n - 自动上双盾\n - 扫雷助手、找一查箱子\n - 画出怪物仇恨范围",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/BAHelper",
