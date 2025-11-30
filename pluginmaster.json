@@ -74,7 +74,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1764455509"
     },
     {
@@ -115,7 +115,7 @@
         "Description": "\u63d0\u4f9b\u4e86\u4e00\u4e9b\u653b\u7565\u5175\u6b66\u5854\u65f6\u89e3\u653e\u5927\u8111\u548c\u53cc\u624b\u7684\u529f\u80fd\uff1a\n - \u95e8\u56fe\n - \u76d1\u63a7\u9644\u8fd1\u73a9\u5bb6\u72b6\u6001\n - \u4e00\u952e\u68c0\u67e5\u961f\u5458\u8865\u6b63\u6570\u503c\n - \u81ea\u52a8\u4e0a\u53cc\u76fe\n - \u626b\u96f7\u52a9\u624b\u3001\u627e\u4e00\u67e5\u7bb1\u5b50\n - \u753b\u51fa\u602a\u7269\u4ec7\u6068\u8303\u56f4",
         "Changelog": "",
         "InternalName": "BAHelper",
-        "AssemblyVersion": "7.38.0.0",
+        "AssemblyVersion": "7.38.0.1",
         "RepoUrl": "https://github.com/iVeigar/BAHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -129,12 +129,12 @@
         ],
         "DalamudApiLevel": 13,
         "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.0/latest.zip",
-        "DownloadCount": 4,
-        "LastUpdate": "1764428356"
+        "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1764531304"
     }
 ]
