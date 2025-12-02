@@ -74,7 +74,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1764609513"
     },
     {
@@ -82,9 +82,9 @@
         "Name": "\u6df1\u5bab\u5c0f\u5730\u56fe",
         "Punchline": "\u5e2e\u4f60\u5feb\u901f\u6478\u6e05\u5468\u56f4\u72b6\u51b5\uff01",
         "Description": "\u7ed8\u5236\u697c\u5c42\u5730\u5f62\u8f6e\u5ed3, \u5e76\u6807\u51fa\u9644\u8fd1\u6e38\u620f\u5bf9\u8c61",
-        "Changelog": "",
+        "Changelog": "fix: x1\u5c42\u6709\u65f6\u4e0d\u753b\u56fe",
         "InternalName": "DeepDungeonRadar",
-        "AssemblyVersion": "7.38.0.1",
+        "AssemblyVersion": "7.38.0.2",
         "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
         "ApplicableVersion": "any",
         "Tags": [
@@ -96,13 +96,13 @@
             "utility"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1764639828"
+        "LastUpdate": "1764691309"
     },
     {
         "Author": "Jukka",
@@ -131,7 +131,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 3,
         "LastUpdate": "1764659055"
     },
     {
@@ -191,7 +191,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
-        "DownloadCount": 5,
+        "DownloadCount": 6,
         "LastUpdate": "1764531304"
     }
 ]
