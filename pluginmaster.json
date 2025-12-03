@@ -105,13 +105,13 @@
         "LastUpdate": "1764695065"
     },
     {
-        "Author": "Jukka",
+        "Author": "Jukka, iVeigar(\u9b54\u6539)",
         "Name": "NecroLens",
         "Punchline": "\u771f\u6b63\u7684\u6b7b\u7075\u672f\u58eb\u4e00\u5b9a\u5bf9\u6df1\u5c42\u8ff7\u5bab\u4e86\u5982\u6307\u638c...\u7136\u800c\u6709\u7684\u4eba\u5374\u5728\u4f7f\u7528\u79d1\u6280\uff01",
         "Description": "\u6df1\u5bab\u52a9\u624b\uff0c\u663e\u793a\u602a\u7269\u4ec7\u6068\u7c7b\u578b\u3001\u5f15\u6218\u8303\u56f4\u548c\u5176\u4ed6\u4e1c\u897f\u3002\n\n\u8c03\u6574\u4e86\u7a97\u53e3\u548c\u6e38\u620f\u5185\u7ed8\u56fe\uff0c\u6821\u6b63\u602a\u7269\u4fe1\u606f\uff0c\u4fee\u590dbug\uff0c\u4f18\u5316\u4ee3\u7801\n\u81ea\u7528\uff0c\u4e0d\u4fdd\u8bc1\u53ca\u65f6\u66f4\u65b0",
         "Changelog": "\u79fb\u9664\u7a97\u53e3\u4e0a\u672c\u5c42\u9b54\u6cd5\u6548\u679c\u4e2d\u7684\u5168\u666f\u548c\u5492\u5370\u89e3\u9664\uff0c\u4f7f\u7528\u675c\u677e\u9999\u654f\u6167\u540e\u9677\u9631\u72b6\u6001\u4f1a\u66f4\u65b0\u4e3a\u53ef\u89c1\uff1b\u652f\u6301\u663e\u793a\u94f6\u7bb1\u5b50\u7684\u91cd\u590d\u7269\u54c1",
         "InternalName": "NecroLens",
-        "AssemblyVersion": "7.38.0.1",
+        "AssemblyVersion": "7.38.0.2",
         "RepoUrl": "https://github.com/iVeigar/NecroLens",
         "ApplicableVersion": "any",
         "Tags": [
@@ -126,13 +126,13 @@
         ],
         "DalamudApiLevel": 13,
         "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1764754953"
+        "LastUpdate": "1764779987"
     },
     {
         "Author": "Critical_Impact, iVeigar",
@@ -191,7 +191,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v7.38.0.1/latest.zip",
-        "DownloadCount": 6,
+        "DownloadCount": 7,
         "LastUpdate": "1764531304"
     }
 ]
