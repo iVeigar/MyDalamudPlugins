@@ -84,7 +84,7 @@
         "Description": "\u7ed8\u5236\u697c\u5c42\u5730\u5f62\u8f6e\u5ed3, \u5e76\u6807\u51fa\u9644\u8fd1\u6e38\u620f\u5bf9\u8c61",
         "Changelog": "fix: x1\u5c42\u6709\u65f6\u4e0d\u753b\u56fe",
         "InternalName": "DeepDungeonRadar",
-        "AssemblyVersion": "7.38.0.3",
+        "AssemblyVersion": "7.38.0.5",
         "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
         "ApplicableVersion": "any",
         "Tags": [
@@ -96,13 +96,13 @@
             "utility"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.5/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.3/latest.zip",
-        "DownloadCount": 3,
-        "LastUpdate": "1764695065"
+        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.0.5/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1764838681"
     },
     {
         "Author": "Jukka, iVeigar(\u9b54\u6539)",
@@ -131,7 +131,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/NecroLens/releases/download/v7.38.0.2/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1764779987"
     },
     {
