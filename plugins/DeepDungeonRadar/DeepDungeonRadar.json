@@ -2,7 +2,7 @@
   "Author": "iVeigar",
   "Name": "深宫小地图",
   "InternalName": "DeepDungeonRadar",
-  "AssemblyVersion": "7.38.1.1",
+  "AssemblyVersion": "7.38.1.2",
   "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
