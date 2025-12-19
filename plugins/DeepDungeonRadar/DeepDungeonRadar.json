@@ -2,24 +2,24 @@
   "Author": "iVeigar",
   "Name": "深宫小地图",
   "InternalName": "DeepDungeonRadar",
-  "AssemblyVersion": "7.38.1.2",
+  "AssemblyVersion": "7.40.0.1",
   "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
   "Tags": [
     "Deep Dungeon",
     "Radar",
-    "Map"
+    "MiniMap"
   ],
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "帮你快速摸清周围状况！",
-  "Changelog": "fix: 铜箱子、乌内、多加；\n现在可以使用图标代替部分标记了；设置项有较大变动请重新调整",
+  "Punchline": "快速摸清周围状况！",
+  "Changelog": "update api14",
   "AcceptsFeedback": true
 }
