@@ -53,29 +53,29 @@
         "Name": "Logogram Helper (\u6c49\u5316+\u589e\u5f3a\u7248)",
         "Punchline": "\u4f18\u96f7\u5361\u6587\u7406\u6280\u80fd\u5408\u6210\u52a9\u624b",
         "Description": "\u6253\u5f00\u6587\u7406\u788e\u6676\u754c\u9762\u65f6\u5c55\u793a\u6587\u7406\u6280\u80fd\u7684\u6240\u6709\u5408\u6210\u65b9\u5f0f\uff0c\u5e76\u4e14\u53ef\u4ee5\u4e00\u952e\u5c06\u5355\u4e2a\u6280\u80fd\u7684\u6307\u5b9a\u914d\u65b9\u6216\u8005\u81ea\u5b9a\u4e49\u7684\u6280\u80fd\u7ec4\u914d\u65b9\u81ea\u52a8\u653e\u5165\u6587\u7406\u878d\u5408\u5668\u3002",
-        "Changelog": "",
+        "Changelog": "update api14",
         "InternalName": "LogogramHelperEx",
-        "AssemblyVersion": "7.38.0.1",
+        "AssemblyVersion": "7.40.0.0",
         "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
         "ApplicableVersion": "any",
         "Tags": [
-            "eureka",
-            "\u4f18\u96f7\u5361",
             "logograms",
-            "\u6587\u7406"
+            "\u6587\u7406",
+            "Eureka",
+            "\u4f18\u96f7\u5361"
         ],
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/iVeigar/LogogramHelperEx/master/res/img/logoslogo.png",
-        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.40.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.38.0.1/latest.zip",
-        "DownloadCount": 4,
-        "LastUpdate": "1764609513"
+        "DownloadLinkTesting": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.40.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/LogogramHelperEx/releases/download/v7.40.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766108920"
     },
     {
         "Author": "iVeigar",
@@ -101,7 +101,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.40.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.40.0.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1766106997"
     },
     {
@@ -192,7 +192,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/BAHelper/releases/download/v7.40.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/BAHelper/releases/download/v7.40.0.0/latest.zip",
-        "DownloadCount": 1,
+        "DownloadCount": 2,
         "LastUpdate": "1766102930"
     }
 ]
