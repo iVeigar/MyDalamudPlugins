@@ -80,29 +80,29 @@
     {
         "Author": "iVeigar",
         "Name": "\u6df1\u5bab\u5c0f\u5730\u56fe",
-        "Punchline": "\u5e2e\u4f60\u5feb\u901f\u6478\u6e05\u5468\u56f4\u72b6\u51b5\uff01",
+        "Punchline": "\u5feb\u901f\u6478\u6e05\u5468\u56f4\u72b6\u51b5\uff01",
         "Description": "\u7ed8\u5236\u697c\u5c42\u5730\u5f62\u8f6e\u5ed3, \u5e76\u6807\u51fa\u9644\u8fd1\u6e38\u620f\u5bf9\u8c61",
-        "Changelog": "fix: \u94dc\u7bb1\u5b50\u3001\u4e4c\u5185\u3001\u591a\u52a0\uff1b\n\u73b0\u5728\u53ef\u4ee5\u4f7f\u7528\u56fe\u6807\u4ee3\u66ff\u90e8\u5206\u6807\u8bb0\u4e86\uff1b\u8bbe\u7f6e\u9879\u6709\u8f83\u5927\u53d8\u52a8\u8bf7\u91cd\u65b0\u8c03\u6574",
+        "Changelog": "update api14",
         "InternalName": "DeepDungeonRadar",
-        "AssemblyVersion": "7.38.1.2",
+        "AssemblyVersion": "7.40.0.1",
         "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
         "ApplicableVersion": "any",
         "Tags": [
             "Deep Dungeon",
             "Radar",
-            "Map"
+            "MiniMap"
         ],
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.1.2/latest.zip",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.40.0.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.1.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.38.1.2/latest.zip",
-        "DownloadCount": 12,
-        "LastUpdate": "1765408680"
+        "DownloadLinkTesting": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.40.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/iVeigar/DeepDungeonRadar/releases/download/v7.40.0.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766106997"
     },
     {
         "Author": "Jukka, iVeigar(\u9b54\u6539)",
@@ -132,7 +132,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/iVeigar/NecroLens/releases/download/v7.40.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/iVeigar/NecroLens/releases/download/v7.40.0.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1766104379"
     },
     {
