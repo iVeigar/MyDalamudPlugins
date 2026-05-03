@@ -2,7 +2,7 @@
   "Author": "iVeigar",
   "Name": "深宫小地图",
   "InternalName": "DeepDungeonRadar",
-  "AssemblyVersion": "7.40.0.1",
+  "AssemblyVersion": "7.50.0.0",
   "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
@@ -14,12 +14,12 @@
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "快速摸清周围状况！",
-  "Changelog": "update api14",
+  "Changelog": "update api15",
   "AcceptsFeedback": true
 }
